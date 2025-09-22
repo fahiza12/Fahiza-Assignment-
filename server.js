@@ -5,7 +5,7 @@ import jwt from "jsonwebtoken";
 
 const app = express();
 const PORT = 3000;
-const SECRET_KEY = "mysecretkey"; // change this if needed
+const SECRET_KEY = "mysecretkey12"; // change this if needed
 
 app.use(bodyParser.json());
 
