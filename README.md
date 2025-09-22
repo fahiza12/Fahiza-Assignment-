@@ -23,7 +23,6 @@ This project demonstrates **Password Hashing Authentication** using **bcrypt** a
    ```bash
    git clone <your-repo-link>
    cd Fahiza-Assignment
-2.Install dependencies
    npm install
-3.start server
+
    npm start
